@@ -176,7 +176,7 @@ footer{
     }
 }
 
-@media only screen and (max-width:320px){
+@media only screen and (max-width:345px){
     .top-left-container{
         font-size: 11px;
     }
@@ -211,4 +211,5 @@ footer{
         margin-top: 15%;
         font-size: 28px;
     }
+
 }
